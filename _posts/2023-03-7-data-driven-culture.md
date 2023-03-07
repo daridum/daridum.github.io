@@ -5,6 +5,7 @@ author: marc
 categories: [ Marketing, Thought Leadership ]
 tags: [ Culture ]
 image: assets/images/16.jpg
+rating: 4
 ---
  
 In today's digital age, data has become an essential part of business success. The ability to collect, analyze, and use data effectively can provide companies with a significant competitive advantage. However, building a data-driven culture can be a challenging process that requires significant organizational transformation. In this article, we will explore some strategies for creating a data-driven culture in your organization.
