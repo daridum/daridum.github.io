@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building a Data-Driven Culture: Strategies for Organizational Transformation"
-author: john
+author: marc
 categories: [ Marketing, Thought Leadership ]
 tags: [ Culture ]
 image: assets/images/16.jpg
